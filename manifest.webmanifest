@@ -1,0 +1,10 @@
+{
+    "name": "ciro spataro",
+    "short_name": "ciro spataro",
+    "start_url": "https://github.com/cirospat/cirospataro",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "ciro spataro ",
+    "lang": "it-IT",
+    "theme_color": "white"
+}
